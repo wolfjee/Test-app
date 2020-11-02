@@ -1,5 +1,3 @@
-# hello-world
-Just another repository
+Created a small app to get familiar with streamlit.
 
-
-Just some changes that I'm making etc.. 
+This app uses the sklearn dataset of Irises for making a classification model.
